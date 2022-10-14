@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.aspirets.com/products-solutions/cloud/">
     <img src="https://www.aspirets.com/wp-content/uploads/2021/07/icon-cloudManaged-67x70.png"
-         alt="Gitter">
+         alt="Cloud">
   </a>
   <a href="https://www.aspirets.com/products-solutions/connectivity/"><img src="https://www.aspirets.com/wp-content/uploads/2021/07/icon-connectivity-70x70.png"></a>
   </a>
